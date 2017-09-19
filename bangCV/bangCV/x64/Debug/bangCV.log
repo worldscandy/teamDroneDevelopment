@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\dev\opencv-3.1.0\build\include\opencv2\core\mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\dev\opencv-3.1.0\build\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\dev\opencv-3.1.0\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\dev\opencv-3.1.0\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\yujikamada\documents\drone\git\bangcv\bangcv\source.cpp(80): warning C4102: 'cv': ラベルは 1 度も参照されません。
+  LINK : 前回のインクリメンタル リンクで C:\Users\YujiKamada\Documents\drone\git\bangCV\x64\Debug\bangCV.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+  bangCV.vcxproj -> C:\Users\YujiKamada\Documents\drone\git\bangCV\x64\Debug\bangCV.exe
+  bangCV.vcxproj -> C:\Users\YujiKamada\Documents\drone\git\bangCV\x64\Debug\bangCV.pdb (Full PDB)
